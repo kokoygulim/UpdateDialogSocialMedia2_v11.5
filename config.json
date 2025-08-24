@@ -1,0 +1,28 @@
+{
+  "dialogConfig": {
+    "enabled": true,
+    "appVersionCode": "11.5",
+    "mandatory": true,
+    "update_url": "https://www.dropbox.com/scl/fi/dcikk98czbuzy1zdxr0x3/Boating.17.0.3.free.key.apk?rlkey=91gysalrlw9dj4emfx1nxxgxo&st=x6vnflwu&dl=1",
+    "title": "Update Available!",
+    "message": "A new mod of the app has been released. Please update now to use the app in offline mode. ",
+    "socialLinks": [
+      {
+        "name": "facebook.old",
+        "url": "https://t.me/RangkayanMods"
+      },
+      {
+        "name": "twitter",
+        "url": "https://t.me/RangkayanMods"
+      },
+      {
+        "name": "instagram.old",
+        "url": "https://t.me/RangkayanMods"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://t.me/RangkayanMods"
+      }
+    ]
+  }
+}
