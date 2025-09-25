@@ -1,11 +1,11 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "appVersionCode": "11.5",
+    "appVersionCode": "11.5.1",
     "mandatory": true,
-    "update_url": "https://www.dropbox.com/scl/fi/dcikk98czbuzy1zdxr0x3/Boating.17.0.3.free.key.apk?rlkey=91gysalrlw9dj4emfx1nxxgxo&st=x6vnflwu&dl=1",
+    "update_url": "https://www.mediafire.com/file/1koiyor3rhy1rxp/Boating.11.5.dccPro.apk/file",
     "title": "Update Available!",
-    "message": "A new mod of the app has been released. Please update now to use the app in offline mode. ",
+    "message": "Please update to latest mod. Night mode enable.",
     "socialLinks": [
       {
         "name": "facebook.old",
