@@ -1,11 +1,11 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "appVersionCode": "11.5",
+    "appVersionCode": "11.51",
     "mandatory": false,
-    "update_url": "https://www.mediafire.com/file/1koiyor3rhy1rxp/Boating.11.5.dccPro.apk/file",
+    "update_url": "https://www.mediafire.com/file/jtto5ietlj0ad05/Boating.11.5.Ads1_dccPro.apk/file",
     "title": "Update Available!",
-    "message": "Please update to latest mod. Night mode enable.",
+    "message": "Please update you app. In this update, you don't need to wait for a key to be uploade. .",
     "socialLinks": [
       {
         "name": "facebook.old",
