@@ -2,10 +2,10 @@
   "dialogConfig": {
     "enabled": true,
     "appVersionCode": "11.51",
-    "mandatory": false,
-    "update_url": "https://t.me/RangkayanMods/128",
+    "mandatory": true,
+    "update_url": "https://www.mediafire.com/file/7sppc2u693uo2ja/Boating_0024.apk/file",
     "title": "Update Available!",
-    "message": "Please update to Voyage 0024b",
+    "message": "Please update your app. Thank you",
     "socialLinks": [
       {
         "name": "facebook.old",
